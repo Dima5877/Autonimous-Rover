@@ -1,0 +1,8 @@
+TX1 (bluefruit) to RX (STM32 Discovery board)
+RX1 (bluefruit) to TX (STM32 Discovery board)
+CTS (bluefruit) to GND (STM32 Discovery board)
+VIN (bluefruit) to VDDA or 3V (STM32 Discovery board)
+
+
+
+https://learn.adafruit.com/introducing-the-adafruit-bluefruit-le-uart-friend/wiring
